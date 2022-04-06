@@ -1,5 +1,23 @@
 import os
 
+'''
+This code finds all the images and tokens, group their name into two files with the following format.
+
+file1 "./data_file.txt":
+    <img0> 0
+    <img1> 1
+    <img2> 2
+    <img3> 3
+
+file2 "./label_file.txt":
+    tokenized formula0
+    tokenized formula1
+    tokenized formula2
+    tokenized formula3
+    ....
+
+'''
+
 
 PATH = '/projectnb/dl523/projects/trace_22/data/processed/'
 save_to_data = './data_file.txt'
