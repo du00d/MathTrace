@@ -1,6 +1,7 @@
 '''
 
 This code is taken from https://github.com/vndee/offline-crohme
+With slight modification to pickle the trace data.
 
 '''
 import pickle
