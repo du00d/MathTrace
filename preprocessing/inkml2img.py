@@ -1,3 +1,8 @@
+'''
+
+This code is taken from https://github.com/vndee/offline-crohme
+
+'''
 import pickle
 import cv2, json, scipy.misc, math
 import numpy as np
