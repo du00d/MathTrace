@@ -7,6 +7,14 @@ Thanks to <a href="https://github.com/vndee/offline-crohme" target="https://gith
   
 The code for streamlining the process and parsing data is under /preprocessing
 The script may require you to have access to code form the repository linked above.
+## Baseline
+We implemented our CNN convolutional network with code obtained from HW problem sets.
+## CDE
+We implemented our model and processing tool with baseline provided b <a href="https://github.com/patrick-kidger/torchcde" target="https://github.com/patrick-kidger/torchcde"> torchcde</a>.
+To run the code...
+```
+pip install torchcde
+```
 
 ### Extension of files
 
