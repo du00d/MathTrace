@@ -1,0 +1,53 @@
+Start training...
+forward pass
+finished forward pass
+backprop
+finished backprop
+update
+func.linear1.weight tensor(46180.3438, device='cuda:0') tensor(6.5196, device='cuda:0')
+func.linear1.bias tensor(15.1575, device='cuda:0') tensor(0.5813, device='cuda:0')
+func.linear2.weight tensor(38909.0703, device='cuda:0') tensor(11.2751, device='cuda:0')
+func.linear2.bias tensor(32.6592, device='cuda:0') tensor(1.0144, device='cuda:0')
+initial.weight tensor(85.8863, device='cuda:0') tensor(6.4885, device='cuda:0')
+initial.bias tensor(8.0170, device='cuda:0') tensor(3.7062, device='cuda:0')
+readout.weight tensor(242.6328, device='cuda:0') tensor(6.4750, device='cuda:0')
+readout.bias tensor(0.0530, device='cuda:0') tensor(0.5658, device='cuda:0')
+Batch: 0   Training loss: 106.29342651367188
+Precision: 7.75 +/- 4.8 %
+Recall: 58.67 +/- 22.2 %
+Saved model checkpoint as ./model/checkpoints/1.ckpt...
+forward pass
+finished forward pass
+backprop
+finished backprop
+update
+func.linear1.weight tensor(41461.1484, device='cuda:0') tensor(6.5197, device='cuda:0')
+func.linear1.bias tensor(17.4219, device='cuda:0') tensor(0.5814, device='cuda:0')
+func.linear2.weight tensor(37452.9922, device='cuda:0') tensor(11.2751, device='cuda:0')
+func.linear2.bias tensor(40.0214, device='cuda:0') tensor(1.0145, device='cuda:0')
+initial.weight tensor(84.2003, device='cuda:0') tensor(6.4885, device='cuda:0')
+initial.bias tensor(11.4907, device='cuda:0') tensor(3.7061, device='cuda:0')
+readout.weight tensor(227.9433, device='cuda:0') tensor(6.4742, device='cuda:0')
+readout.bias tensor(0.0523, device='cuda:0') tensor(0.5657, device='cuda:0')
+Batch: 1   Training loss: 98.44000244140625
+Precision: 8.43 +/- 4.9 %
+Recall: 60.48 +/- 20.2 %
+Saved model checkpoint as ./model/checkpoints/2.ckpt...
+forward pass
+finished forward pass
+backprop
+finished backprop
+update
+func.linear1.weight tensor(44570.6055, device='cuda:0') tensor(6.5197, device='cuda:0')
+func.linear1.bias tensor(20.8088, device='cuda:0') tensor(0.5814, device='cuda:0')
+func.linear2.weight tensor(44956.0352, device='cuda:0') tensor(11.2752, device='cuda:0')
+func.linear2.bias tensor(52.0162, device='cuda:0') tensor(1.0146, device='cuda:0')
+initial.weight tensor(137.7691, device='cuda:0') tensor(6.4884, device='cuda:0')
+initial.bias tensor(13.2598, device='cuda:0') tensor(3.7061, device='cuda:0')
+readout.weight tensor(247.9686, device='cuda:0') tensor(6.4733, device='cuda:0')
+readout.bias tensor(0.0520, device='cuda:0') tensor(0.5657, device='cuda:0')
+Batch: 2   Training loss: 106.34819030761719
+Precision: 8.28 +/- 5.0 %
+Recall: 58.97 +/- 21.0 %
+Saved model checkpoint as ./model/checkpoints/3.ckpt...
+forward pass
