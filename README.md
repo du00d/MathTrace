@@ -4,6 +4,8 @@ Leveraging Neural Controlled Differential Equaution to predict Mathematical Expr
 ## Preprocessing
 Thanks to <a href="https://github.com/vndee/offline-crohme" target="https://github.com/vndee/offline-crohme">offline-crohme</a> and <a href="https://github.com/harvardnlp/im2markup" target ="https://github.com/harvardnlp/im2markup">im2markup</a>
  for providing some basic tools to extract inkML data into images and tokens.
+
+Additionaly, we provide the helper functions for processing the cleaned dataset in `tools`.
   
 The code for streamlining the process and parsing data is under /preprocessing
 The script may require you to have access to code form the repository linked above.
