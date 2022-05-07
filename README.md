@@ -10,7 +10,7 @@ The script may require you to have access to code form the repository linked abo
 ## Baseline
 We implemented our CNN convolutional network with code obtained from HW problem sets.
 ## CDE
-We implemented our model and processing tool with baseline provided b <a href="https://github.com/patrick-kidger/torchcde" target="https://github.com/patrick-kidger/torchcde"> torchcde</a>.
+We implemented our model and processing tool with baseline provided by <a href="https://github.com/patrick-kidger/torchcde" target="https://github.com/patrick-kidger/torchcde"> torchcde</a>.
 To run the code...
 ```
 pip install torchcde
